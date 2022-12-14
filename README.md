@@ -1,1 +1,1 @@
-# js-ttd-course
+# js-tdd-course
